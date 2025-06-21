@@ -1,1 +1,3 @@
-结课设计
+Python数据收集系统
+主要调用Drissionpage库
+以SN平台的爬取作为目标爬取SRC
